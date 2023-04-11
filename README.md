@@ -1,2 +1,2 @@
-# Lesson_HTML_CSS_02
-Repetition för HTML och CSS
+# Andra lektionen
+Repetition för HTML och CSS, git och även markdown.
